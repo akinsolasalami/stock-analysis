@@ -18,7 +18,7 @@ Here are the run times for the two different cases:
     
 ![2017 Run Time](/Resources/VBA_Challenge_2017.png "VBA_Challenge_2017")
 
-![2018 Run Time](/Resources/VBA_Challenge_2018.png "VBA_Challenge_2018")
+![2018 Run Time](Challenge2/Resources/VBA_Challenge_2018.png "VBA_Challenge_2018")
 
 
 ## Summary
