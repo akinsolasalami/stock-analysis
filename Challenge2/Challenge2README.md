@@ -8,11 +8,11 @@ I began the analysis by renaming the original dataset and adding the .vbs script
     
 From the results we can see that in 2017 was a good time to invest in any of the listed tickers with the exception of TERP. 
     
-![2017 Stock Analysis](/Resources/2017_Analysis.png "2017 Stock Analysis")
+(/Resources/2017_Analysis.png "2017 Stock Analysis")
 
 Unfortunately we cannot say the same for 2018. As most stocks were in the red :( 
 
-![2018 Stock Analysis](/Resources/2018_Analysis.png "2018 Stock Analysis")
+(/Resources/2018_Analysis.png "2018 Stock Analysis")
 
 Here are the run times for the two different cases:
     
